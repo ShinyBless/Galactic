@@ -1,0 +1,7 @@
+scoreboard:
+  scoreboardTitle: "&3[&bGalactic&3]"
+  line1: "Players: %players%"
+  line2: "Oro: %oro%"
+  line3: "TotalKills: %totalKills%"
+  line4: "KillStreak: %kills%"
+  line5: "Deaths: %deaths%"

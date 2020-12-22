@@ -1,0 +1,11 @@
+name: ThePitArena
+version: 1.0-SNAPSHOT
+main: me.shinybless.arena.Main
+api-version: 1.16
+authors: [ ShinyBless ]
+depend:
+  - Vault
+
+commands:
+  rocket:
+  thepit:
